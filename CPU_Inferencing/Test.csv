@@ -1,0 +1,500 @@
+ID,Question Text
+Q4,"What is the definition of ""unusual event"""
+Q5,What is Community Based Surveillance (CBS)?
+Q9,What kind of training should members of VHC receive?
+Q10,What is indicator based surveillance (IBS)?
+Q13,What is Case based surveillance?
+Q14,What diseases are best monitored using syndromic surveillance?
+Q15,What is Community Based Surveillance (CBS)?
+Q17,What do Village Health Commitees (VHCs) do when they identify a patient through any of the strategies?
+Q18,In Community Based Surveillance what kind of unusual events or alerts are of interest?
+Q20,Give examples of members of Village Health Commitees (VHAs).
+Q22,How are community health workers identified?
+Q26,Why do CHWs play a crucial role in Community Based Surveillance?
+Q27,What is the procedure of reporting cases for VHCs?
+Q31,Mention a role of the community volunteers and  Health Surveillance Assistants (HSAs).
+Q36,What defined a probable case?
+Q37,What defined a confirmed case?
+Q38,What is the guidelines with regards to the sensitivity of case definitions in outbreak scenarios?
+Q40,What does One Health approach consist of?
+Q41,Give an example of One Health surveillance?
+Q42,How are case definitions disseminated for use in Malawi?
+Q46,How often are the district procedures for surveillance and response updated?
+Q47,"What is the recommended frequency for updating information about the catchment area, including health facilities, Points of Entry, and laboratories?"
+Q49,What types of public health hazards should risk mapping cover?
+Q52,What is the purpose of weekly data analysis at facility or district level during an outbreak?
+Q54,Who is responsible for data verification at the district level in eIDSR?
+Q55,Why is weekly reporting important for monitoring disease trends?
+Q58,Where do the numbers for the weekly aggregates come from?
+Q64,What routine summary information should be reported monthly and quarterly for other diseases of public health importance?
+Q66,"How can additional diseases or events be categorized for reporting frequency (immediate, weekly, monthly, or quarterly)?"
+Q70,How should laboratory data be organized and utilized in disease surveillance?
+Q71,Give example of what kind of aggregated data a nurse is responsible to create?
+Q72,How are summaries for diseases calculated and recorded in health facilities equipped with computers?
+Q73,"What register is used in isolation units during outbreaks, and why is it important for IDSR summaries?"
+Q74,What is emphasized regarding supervisory visits to reporting sites?
+Q75,What should clinicians ensure during supervisory visits regarding patient registers and case-based surveillance reporting forms?
+Q76,What steps should be taken to ensure that health workers know or have access to standard case definitions?
+Q77,"What role does case-based data play in public health events, and how should health staff be prepared?"
+Q78,"What communication means should the surveillance unit have access to, and how should districts notify the national level?"
+Q81,What should be stressed during supervision regarding data quality and surveillance?
+Q84,What are some factors affecting data quality in summaries that should be periodically checked?
+Q85,Why is it recommended to conduct regular data quality audits at reporting sites?
+Q87,"Who can be selected as CBS focal persons, and what is required after their selection?"
+Q89,What are examples of community sources that district staff may identify for CBS?
+Q94,How can the linkages between epidemiological and laboratory data be strengthened?
+Q95,What is the importance of submitting weekly summaries of processed samples during an outbreak?
+Q96,"During supervision at reporting sites, what should be ensured in collaboration with the Laboratory Focal Person?"
+Q100,What should be emphasized in the implementation of the One Health approach?
+Q102,Who are the key actors to foster collaboration in reporting and assessment of public health risks?
+Q103,How is patient confidentiality and privacy maintained during public health reporting?
+Q104,When might the use of names be required during an outbreak of infectious diseases?
+Q105,How does the public health laboratory system complement syndromic disease surveillance?
+Q107,How can linkages between epidemiological and laboratory data be strengthened?
+Q108,Which steps are important during an outbreak to assist in completing variables in the line list register?
+Q109,"During supervision at reporting sites, how can collaboration with the Laboratory Focal Person be ensured?"
+Q118,How should the Community Alert Reporting Form be used?
+Q121,How can case definitions be made available when filling in the Community Alert Reporting form?
+Q125,How should the form be used to capture and report diseases and events at the community level?
+Q127,"What information is captured in Annex 2G, the IDSR Case-Based Laboratory Reporting Form?"
+Q128,What is the reporting structure for a TRUE EVENT in community alert and verification?
+Q131,What are the options for report descriptions in the IDSR Reports and Data Sharing Logbook?
+Q134,"What aspects does the District Level IDSR Data Quality Audit Checklist cover under ""DATA COLLECTION TO IDENTIFY SUSPECTED CASES WITHIN HEALTH FACILITY""?"
+Q135,"What are some of the key questions in the ""RECORDING OF CASES"" section of the District Level IDSR Data Quality Audit Checklist?"
+Q136,"What aspects does the District Level IDSR Data Quality Audit Checklist cover under the category of ""REPORTING""?"
+Q137,What types of information are included in the Maternal Death Reporting Form?
+Q140,What is the focus of Module 3 in the Technical Guidelines for Integrated Disease Surveillance and Response for Malawi?
+Q144,"What is recommended for each site that collects or receives data, according to the guidelines?"
+Q146,What are the key functions of analyzing data according to the Technical Guidelines for Integrated Disease Surveillance and Response for Malawi?
+Q149,How does surveillance data flow from reporting sites to the central level?
+Q153,What practices should be followed when recording and aggregating data manually or electronically?
+Q156,How is the routine flow of surveillance data typically organized?
+Q159,"How is data collected in areas with an eIDSR system, and how is it accessed at the district level?"
+Q160,What measures are advised for ensuring data protection and security?
+Q164,Why is it important to review data carefully after entry?
+Q166,What types of analysis should be conducted on disease data?
+Q176,What should be included in a histogram showing data from case based forms or line lists?
+Q178,In what way can histograms be used to draw epidemic curves?
+Q180,Is it possible to determine the incubation period from analysing outbreak data coming from case based forms of line lists?
+Q183,What information should be used to plot and describe clusters of cases on a map?
+Q185,What sources of infection can be identified by analyzing data by place?
+Q187,What factors should be marked on a map during routine analysis of disease surveillance data?
+Q191,"Looking at the guidelines for the analysis of an outbreak, comment on why recording location correctly is important?"
+Q195,What variables should be compared in the analysis of cases by person?
+Q196,Why is identifying numerators and denominators important in analyzing person data?
+Q197,How can simple percentages be used in disease surveillance analysis?
+Q203,Can one assess health-seeking behavior by analyzing case fatality rate?
+Q207,How can comparison of incidence numbers across facilities be used?
+Q209,How is the attack rate calculated?
+Q218,How is the epidemic threshold for malaria determined in some countries?
+Q221,How does the periodic assessment of surveillance thresholds impact their use?
+Q222,Where can one find information on suggested thresholds for taking action in specific diseases or conditions?
+Q224,How are the suggested thresholds in the Malawi IDSR Technical Guidelines determined?
+Q225,Who is the target audience for the suggested thresholds outlined in Section 11.0?
+Q227,What should be done if a district's analysis plan has been prepared?
+Q228,Why is it important to correlate analysis findings with other data sources?
+Q229,What factors should be considered when interpreting results?
+Q236,What factors should be considered when assessing changes in disease trends?
+Q237,Why might there be a backlog of cases being reported?
+Q238,Why is it important to correlate analysis findings with other data sources?
+Q240,How can the quality of data be assessed during interpretation?
+Q241,What factors affect the quality of the data?
+Q242,How can the quality of data be ensured during data collection?
+Q243,How can one ensure correct interpretation of outbreak data?
+Q244,What sources of chance can occur that are relevant to outbreak analysis?
+Q245,How should surveillance findings be summarized and shared?
+Q247,Why is information sharing important in surveillance?
+Q248,Where can I find examples of information sharing during surveillance?
+Q249,What information should be included in a routine analysis plan for surveillance information?
+Q250,How can completeness and timeliness of reporting be calculated and why is it important?
+Q255,Why is data validation and quality analysis essential in routine surveillance analysis?
+Q256,Where can an example of a product from an analysis plan for routine surveillance information be found?
+Q258,What factors should be considered when making a line graph manually?
+Q259,Why is it important to correlate analysis findings with other data sources?
+Q261,How to draw a chart manually?
+Q263,Can you provide an overview of the content within Section 4 of the technical guidelines?
+Q266,"What steps are involved in preparing for a response to outbreaks and public health events, according to Section 5?"
+Q270,"What annexes are included in Section 4, and what specific information do they provide?"
+Q274,How is the Third Edition of the IDSR technical guidelines intended to be utilized?
+Q276,"What is an outbreak, as defined in Section 4.0?"
+Q277,"What is the purpose of an outbreak investigation, according to Section 4?"
+Q286,How is an outbreak defined in Section 4.0?
+Q287,"What are the purposes of an outbreak investigation, according to Section 4.0?"
+Q291,What should be done after verification of suspected outbreaks or events?
+Q293,What is the significance of the District Public Health Emergency Rapid Response Team (PHERRT)?
+Q295,How does Section 4.1.1 recommend preparing for an outbreak investigation?
+Q296,What functions does the District Public Health Emergency Rapid Response Team (PHERRT) serve?
+Q299,What are the key elements to include in terms of reference for the PHERRT?
+Q300,Why does Section 4.1.1 suggest having a database of trained public health workers?
+Q302,What is the significance of developing terms of reference for the PHERRT?
+Q304,What role does the national level play in supporting district-level outbreak investigations?
+Q310,How does Section 4.1.7 advise on arranging transportation and other logistics for an outbreak investigation?
+Q311,What does Section 4.1.8 recommend regarding gathering supplies for collecting laboratory specimens?
+Q313,What are the triggers for conducting an investigation?
+Q314,"Why should reported outbreaks, public health events, and alerts be recorded?"
+Q318,What does paragraph 253 recommend regarding communication lines during an investigation?
+Q320,Why is it important to observe appropriate authorizations during an investigation?
+Q322,How can an outbreak or event be verified and confirmed?
+Q323,What information should be examined to confirm the signs and symptoms of cases in an outbreak?
+Q324,What questions should be asked to gather information about a patient's background and contacts during an outbreak investigation?
+Q325,What precautions are recommended during the verification and confirmation process?
+Q326,How can the verification and confirmation of an outbreak or event be initiated?
+Q332,"In cases of suspected AEFIs, what information should be gathered regarding vaccines?"
+Q333,Why is it important to ask about recent food consumption during a foodborne outbreak investigation?
+Q335,What is the recommended approach to personal protective equipment (PPE) during the verification and confirmation process?
+Q338,What is the significance of defining a case during an outbreak investigation?
+Q339,Where can standard case definitions for most IDSR priority diseases be found?
+Q341,"When encountering a new disease, what should be done to establish a case definition?"
+Q343,What are the common elements of a case definition that need to be included?
+Q347,What is the importance of searching for additional cases after the initial ones have been confirmed and treatment initiated?
+Q350,Which guidelines should be followed to manage cases in isolation during an outbreak?
+Q353,Where should the search for contact persons and suspected deaths in the community be conducted?
+Q356,Compare the methods for communicating during an outbreak with the community and key partners.
+Q359,Why is it important to record information on a line list register for each new case during an outbreak investigation?
+Q360,"What information should be recorded on a ""case based surveillance reporting form"" for each new case during an outbreak investigation?"
+Q361,Where can you find detailed forms for investigating specific diseases during an outbreak?
+Q370,Contrast the information recorded in the line list register and the sample line list register (Annex 4E) during an outbreak investigation.
+Q373,What is the purpose of calculating case fatality rates during an outbreak situation?
+Q374,How can the shape of an epidemic curve offer insights into the outbreak?
+Q378,"When conducting analytic studies, what are some possible study designs to test hypotheses about the outbreak causes?"
+Q381,Compare and contrast the shapes of epidemic curves and their possible interpretations.
+Q383,"Contrast the purposes of time, place, and person analyses during an outbreak investigation."
+Q385,"Why is it important to compare age groups in outbreak investigations, and how can this information be used for interventions?"
+Q386,"In outbreak investigations, which study designs, such as case-control studies or cohort studies, are suitable for testing hypotheses, and why?"
+Q390,Why is refining hypotheses based on analytic study results important in outbreak investigations?
+Q391,"Why is it important to disseminate all reports, including preliminary and interim, even if no conclusive risk factors have been identified for a given outbreak?"
+Q402,Contrast the objectives of a situation report (SitRep) with those of a detailed outbreak investigation report. How do they differ in their focus and audience? 
+Q403,"Compare the use of a transmission tree and a spot map in outbreak investigations. How do they contribute to understanding disease spread, and what distinct information do they provide?"
+Q406,"Which channels of communication are recommended in Section 7 for reporting outbreak findings, and why are these channels important?"
+Q408,"Where can stakeholders access a suggested outline for writing an investigation report, and why is having a structured outline important in the reporting process?"
+Q412,Why should control measures be implemented concurrently with other investigation steps in an outbreak?
+Q416,What is the significance of implementing control measures at the first available point in the investigation process?
+Q418,How do non-specific control measures differ from specific control measures in outbreak settings?
+Q423,What questions should the designated investigation team address during the risk assessment to determine if the event is a potential Public Health Emergency of International Concern (PHEIC)?
+Q425,"How should the national level maintain contact with the district for daily updates during an epidemic, and why is this important?"
+Q428,"What factors should be evaluated in the risk assessment conducted after an outbreak is confirmed, and why is regular risk assessment crucial?"
+Q432,"What responsibilities typically lie at the national level compared to the district or facility levels during an outbreak, and why is coordination essential?"
+Q434,"How does parallel reporting impact the management of an outbreak, and why is it crucial to avoid?"
+Q437,"Where should control measures be implemented during an outbreak, and why is it emphasized to engage multiple sectors in the response?"
+Q438,"What are the potential impacts of biomedical research during an outbreak, and why is it essential to conduct research in a scientifically and ethically sound manner?"
+Q440,Compare and contrast the impacts of parallel reporting and coordinated reporting on outbreak management.
+Q441,What information should be recorded in the District log of suspected outbreaks and alerts?
+Q443,Why is the District log of suspected outbreaks and alerts important during an outbreak investigation?
+Q445,"What types of specimens are mentioned in the laboratory supplies checklist, and why are these specimens important for outbreak investigation?"
+Q447,How does the laboratory supplies checklist contribute to the safety of healthcare workers involved in an outbreak investigation?
+Q448,"What considerations are mentioned for packaging and transporting samples in the laboratory supplies checklist (Annex 4B), and why are these important?"
+Q450,How does the laboratory supplies checklist support the effective collection and handling of various types of specimens during an outbreak?
+Q452,Which factors should be considered when packaging and transporting samples according to the laboratory supplies checklist?
+Q453,Why is the District log of suspected outbreaks and alerts designed to include information about response activities and steps taken during an outbreak?
+Q454,How does the laboratory supplies checklist contribute to the safety of healthcare workers involved in an outbreak investigation?
+Q455,Where does the District log of suspected outbreaks and alerts recommend recording information about the suspected outbreak or unexplained event?
+Q462,What information should the health facility registers ideally include for investigating suspected cases during a register review?
+Q465,Compare the roles of the health facility supervisor in the register review and the health facility staff in the District log of suspected outbreaks and alerts.
+Q466,Why is it emphasized during a register review that the activity is an information-gathering exercise and not a review of health worker performance?
+Q472,What kind of responsibilities lie at the national level compared to district or facility levels during an outbreak?
+Q473,What is the purpose of triple packaging of samples during an outbreak?
+Q475,What are the key components of the contact tracing form?
+Q476,What should be recorded in the sample line list?
+Q478,What is the purpose of the sample line list?
+Q481,What are the types of contacts defined in the contact tracing form?
+Q482,What are the steps involved in conducting a register review?
+Q487,What are the criteria for defining contacts in the contact tracing form?
+Q488,What is the purpose of the sample line list?
+Q489,Why is a register review conducted in health facilities?
+Q493,Where should contacts be recorded in the contact tracing form?
+Q499,Compare the purpose of a register review in different types of health facilities.
+Q502,Contrast the information recorded in the sample line list with other outbreak response documents.
+Q503,Explain the significance of recording the vaccination status in the sample line list.
+Q504,Explain the role of an analytical study in outbreak investigations.
+Q505,Can you provide an example of a case that could trigger an outbreak of respiratory illness?
+Q506,"How might a 25-year-old university student with symptoms like coughing, fever, and shortness of breath contribute to the onset of a respiratory illness outbreak?"
+Q510,"Reflecting on the information provided, explain how the interactions between the first case and healthcare workers might influence the development and spread of a respiratory illness."
+Q512,How does the experience of the 65-year-old male doctor (case 4) during the outbreak provide insights into the potential range of severity and recovery strategies for respiratory illnesses?
+Q513,"Considering cases 5 through 13 in the second phase of the outbreak, can you identify any common characteristics or factors that contribute to the spread of respiratory illness during this period?"
+Q515,Does the TG contain case definitions for Acute haemorrhagic fever syndrome?
+Q517,Does the TG contain case definitions for Adverse Events Following Immunization (AEFI)?
+Q518,Does the TG contain case definitions for Anthrax (human)?
+Q520,Does the TG contain case definitions for Buruli ulcer (BU) (Mycobacterium ulcerans disease)?
+Q521,Does the TG contain case definitions for Chikungunya?
+Q522,Does the TG contain case definitions for Cholera?
+Q523,Does the TG contain case definitions for Dengue Fever?
+Q525,Does the TG contain case definitions for Diarrhoea with blood (Shigella)?
+Q526,Does the TG contain case definitions for Diarrhoea with dehydration in children less than 5 years of age?
+Q528,Does the TG contain case definitions for Ebola or Marburg virus diseases?
+Q529,Does the TG contain case definitions for Epilepsy?
+Q531,Does the TG contain case definitions for Hypertension?
+Q534,Does the TG contain case definitions for Injuries (Road traffic accidents)?
+Q535,Does the TG contain case definitions for Lassa and Crimean-Congo Haemorrhagic Fevers?
+Q538,Does the TG contain case definitions for Malaria?
+Q543,Does the TG contain case definitions for MonkeyPox?
+Q549,Does the TG contain case definitions for Bubonic Plague?
+Q550,Does the TG contain case definitions for Pneumonic Plague?
+Q551,Does the TG contain case definitions for Poliomyelitis (Acute flaccid paralysis)?
+Q552,Does the TG contain case definitions for Rabies (Human)?
+Q554,Does the TG contain case definitions for Severe Acute Respiratory Infections (SARIs)?
+Q555,Does the TG contain case definitions for Severe Acute Respiratory Syndrome (SARS)?
+Q556,Does the TG contain case definitions for Severe Pneumonia in Children under 5 years of age?
+Q557,Does the TG contain case definitions for Sexually transmitted infections?
+Q559,Is there an Acute Flaccid Paralysis case investigation form available in the TG?
+Q561,Are there Maternal and Perinatal death reporting forms available in the TG?
+Q562,Is there a Measles case investigation form available in the TG?
+Q565,Is there a Respiratory diseases (including Influenza) case investigation form available in the TG?
+Q570,Is there an IDSR Outbreak line list available in the TG?
+Q571,Are there Contact listing forms available in the TG?
+Q581,"Is CDC an abbreviation mentioned in the TG, and what does it stand for?"
+Q583,"Is there information about CBS in the TG, and what does it stand for?"
+Q584,"Does the TG mention CBIS as an abbreviation, and what does it stand for?"
+Q586,"Is CFR an abbreviation in the TG, and what does it stand for?"
+Q587,"What does CHA stand for, and is it explained in the TG?"
+Q590,"Is there an abbreviation CHT in the TG, and what does it stand for?"
+Q593,"What does DDO stand for, and is it explained in the TG?"
+Q595,"What does DHO stand for, and where can I find its meaning in the TG?"
+Q597,"Does the TG mention DPC as an abbreviation, and what does it stand for?"
+Q604,"Is EPR an abbreviation mentioned in the TG, and what does it stand for?"
+Q606,"Is HCF an abbreviation mentioned in the TG, and what does it stand for?"
+Q609,"What does HMER stand for, and where can I find its meaning in the TG?"
+Q613,"Does the TG include IBS as an abbreviation, and what does it stand for?"
+Q615,"Is IEC an abbreviation mentioned in the TG, and what does it stand for?"
+Q616,"What does IMC stand for, and is it defined in the TG?"
+Q618,"What does IPC stand for, and where can I find its meaning in the TG?"
+Q619,"Is IHR (2005) an abbreviation mentioned in the TG, and what does it stand for?"
+Q621,"What is JEE an abbreviation for, and where can I find its meaning in the TG?"
+Q625,"What is MDR an abbreviation for, and where can I find its meaning in the TG?"
+Q628,"What does MOA stand for, and is it explained in the TG?"
+Q629,"Is MTI an abbreviation mentioned in the TG, and what does it stand for?"
+Q630,"What does NGO stand for, and is it defined in the TG?"
+Q631,"Is NNT an abbreviation mentioned in the TG, and what does it stand for?"
+Q636,"Is PoE an abbreviation mentioned in the TG, and what does it stand for?"
+Q637,"What is PHEIC an abbreviation for, and where can I find its meaning in the TG?"
+Q638,"Is PHEMC an abbreviation mentioned in the TG, and what does it stand for?"
+Q644,"What does SFP stand for, and is it explained in the TG?"
+Q646,"What does STI stand for, and where can I find its meaning in the TG?"
+Q650,"What is XDR an abbreviation for, and where can I find its meaning in the TG?"
+Q651,What are the diseases associated with acute haemorrhagic fever syndrome?
+Q652,What is the goal of surveillance for acute haemorrhagic fever syndrome?
+Q657,What specimens are used for diagnostic tests in acute haemorrhagic fever syndrome?
+Q660,What precautions should be taken when using Rapid Diagnostic Tests (RDTs) for VHDs?
+Q661,What actions should be taken once a case is confirmed during an outbreak?
+Q667,Where should suspected cases be isolated during an outbreak?
+Q669,Which diagnostic tests are used to confirm laboratory cases of acute haemorrhagic fever syndrome?
+Q673,Why is it important to analyze age and sex distribution during an outbreak of acute haemorrhagic fever?
+Q674,Which references provide guidelines for infection control and surveillance of viral haemorrhagic fevers?
+Q678,Why are estimates of carrier numbers significant for hepatitis B and C?
+Q681,What is the goal of surveillance for acute viral hepatitis?
+Q685,How is chronic viral hepatitis C actively confirmed after a positive screening test?
+Q686,What additional investigations are conducted for chronic viral hepatitis C patients?
+Q687,Where can one find references for prevention and control of viral hepatitis?
+Q696,Why is it necessary to assess inflammatory activity and fibrosis in chronic viral hepatitis patients?
+Q697,"Where can one find guidelines for the prevention, care, and treatment of chronic viral hepatitis?"
+Q698,What are the five possible causes of Adverse Events Following Immunization (AEFI)?
+Q701,How should minor AEFIs be responded to?
+Q706,Compare minor and serious Adverse Events Following Immunization (AEFI) responses.
+Q707,Which document provides the global manual on surveillance of Adverse Events Following Immunization (AEFI)?
+Q710,Compare the goals of AEFI surveillance and the standard case definition for AEFI.
+Q713,What is Anthrax and what causes it?
+Q714,"What is the incubation period for Anthrax, and what are the possible forms of human infection?"
+Q717,What actions should be taken if a single case of Anthrax is suspected?
+Q722,Where can one find additional information and resources on Anthrax?
+Q725,"Which forms of Anthrax pose a higher risk for explosive outbreaks, and why?"
+Q726,"Where should suspected Anthrax cases be reported, and why is immediate reporting important?"
+Q731,Contrast the impact of the MenAfriVac vaccine on Nm A epidemics with the occurrence of epidemics from other serogroups.
+Q736,Compare the laboratory confirmation methods for bacterial meningitis pathogens.
+Q737,"Why are polysaccharide vaccines not recommended for very young children, and what is the limitation of their protection duration?"
+Q741,Contrast the impact of the MenAfriVac vaccine on Nm A epidemics with the impact on other serogroups in recent years.
+Q746,"Where should CSF specimens be collected for diagnosing bacterial meningitis, and why is CSF preferred over other specimens?"
+Q747,"What is the extent of the long-term sequelae suffered by bacterial meningitis survivors, and which complications are commonly observed?"
+Q750,"Compare the management strategies for Buruli ulcer (BU) in categories I, II, and III patients."
+Q753,"Why is mycolactone detection considered a new diagnostic test for Buruli ulcer (BU), and what is its significance?"
+Q754,"Where should specimens be collected for Buruli ulcer (BU) confirmation, and when is it recommended to collect them?"
+Q756,"What is the extent of BU cases in the WHO African Region in 2017, and how does it compare to the global burden?"
+Q760,"What actions are recommended in response to the alert threshold for BU, and why are these actions important?"
+Q763,What is the standard case definition for Chikungunya?
+Q769,What information is crucial to report when responding to the Chikungunya alert threshold?
+Q772,Compare the standard case definitions for Chikungunya and Buruli Ulcer.
+Q774,"Which antibiotics are recommended for the treatment of Bacterial Meningitis, and how do they differ from those recommended for Buruli Ulcer?"
+Q776,Compare the laboratory confirmation methods for Chikungunya and Bacterial Meningitis.
+Q777,"In which regions are Chikungunya and Buruli Ulcer most prevalent, and what factors contribute to their geographical distribution?"
+Q778,"How many categories are there for classifying Buruli Ulcer patients, and what are the criteria for each category?"
+Q781,Compare the response strategies to the alert threshold for Bacterial Meningitis and Chikungunya.
+Q786,What are the key similarities and differences in the surveillance goals for Bacterial Meningitis and Buruli Ulcer?
+Q790,What are the similarities and differences in the laboratory confirmation methods for Bacterial Meningitis and Buruli Ulcer?
+Q792,Compare the risk factors for cholera with those of Bacterial Meningitis and Buruli Ulcer.
+Q794,"Which pathogens cause Cholera, and how do they differ from those causing Bacterial Meningitis and Buruli Ulcer?"
+Q799,What are the key similarities and differences in the surveillance goals for Cholera and Bacterial Meningitis?
+Q800,"What actions should be taken during the alert threshold for Cholera, and how do they compare with the actions for Buruli Ulcer?"
+Q801,How does the utilization of cholera vaccine differ from the strategies for improving water and sanitation?
+Q803,"When should stool specimens be collected during a cholera outbreak, and how many specimens should be obtained?"
+Q810,"Who should be involved in responding to the alert threshold for Buruli Ulcer, and why is it essential to fill in the case report form with origin village GPS data?"
+Q811,What are the key similarities and differences in the laboratory confirmation methods for Cholera and Chikungunya?
+Q813,"What are the key components of the surveillance goal for Chikungunya, and why is it important to identify high-risk areas?"
+Q816,"Who should be treated according to standardized case management guidelines for diabetes, and why is district-level prevention important in the fight against diabetes?"
+Q817,"What are the recommended public health actions for diabetes, and why is the analysis of data important to understand trends?"
+Q819,"What are the key components of the laboratory confirmation for diabetes, and why is it important to measure glucose levels in various specimens?"
+Q820,"Why should blood glucose measurements be carried out on the day and at the time requested, and who should be involved in the analysis of data for non-communicable diseases?"
+Q822,"Why are obesity, physical inactivity, and excessive alcohol consumption considered modifiable risk factors for diabetes, and who should be targeted in community awareness activities?"
+Q826,"What is the extent of the resurgence of cholera in Africa since the mid-1980s, and why is it important to establish treatment centers in localities where cases occur?"
+Q833,"Why is it important to screen high-risk patients for diabetes, and what are the key components of the laboratory confirmation for cholera?"
+Q834,"Compare the incubation period and clinical characteristics of Shigella dysenteriae type 1 (SD1) and cholera, and why is it crucial to detect and respond promptly to outbreaks of these diseases?"
+Q837,"How does the epidemiological pattern of Diarrhoea with dehydration in children less than 5 years of age differ from Shigella dysenteriae type 1 (SD1) and cholera, and why is it essential to teach mothers about home treatment with oral rehydration during outbreaks?"
+Q838,"What actions should be taken if the number of cases or deaths increases for Diarrhoea with dehydration in children less than 5 years of age, and why is it important to assess health worker practice of Integrated Management of Childhood Illnesses (IMCI) guidelines?"
+Q839,"Which diarrheal diseases are transmitted through faecal-oral spread, and why is it necessary to identify high-risk populations for Diarrhoea with blood (Shigella)?"
+Q840,"What is the standard case definition for Chikungunya, and why is it important to establish treatment centers in localities where cholera cases occur?"
+Q846,What is the extent of the resurgence of cholera in Africa since the mid-1980s?
+Q847,Who are the populations at highest risk for Diabetes Mellitus?
+Q848,"What is the most common form of diabetes, and what are the risk factors affecting the onset of diabetes?"
+Q851,Why is it important to maintain strict infection prevention and control practices during an Ebola or Marburg outbreak?
+Q852,Who should be notified if a single case of Ebola or Marburg is suspected?
+Q854,What is the laboratory confirmation process for Ebola or Marburg virus diseases?
+Q856,How should specimens from suspected viral hemorrhagic fever patients be handled and transported?
+Q857,What are the key components of analyzing and interpreting data for Ebola or Marburg virus diseases?
+Q859,What is the background information on epilepsy?
+Q860,What is the standard case definition for epilepsy?
+Q862,What information and education measures are recommended at the action threshold for all epilepsy cases?
+Q866,"What are foodborne illnesses, and how do they enter the body?"
+Q867,What is the goal of surveillance for foodborne illnesses?
+Q873,"What is hypertension, and how is it classified?"
+Q877,How should data on hypertension be analyzed and interpreted?
+Q878,"How is hypertension diagnosed, and what are the references for guidelines and resources?"
+Q884,What are the laboratory testing recommendations for influenza-like illness (ILI)?
+Q886,Compare the surveillance goals for influenza caused by a new subtype with those for Influenza-like Illness (ILI).
+Q887,Contrast the standard case definitions for influenza caused by a new subtype with those for ILI. Identify the key differences in criteria and parameters.
+Q888,Compare the key steps involved in investigating influenza caused by a new subtype with those for ILI. Highlight any shared or distinct aspects in the investigation process.
+Q897,"How should health authorities analyze and interpret data for lymphatic filariasis, and what criteria indicate successful control?"
+Q901,What are the standard case definitions for uncomplicated and severe malaria?
+Q902,"How should health authorities respond to alert and action thresholds for malaria, and what actions are recommended?"
+Q903,"How should health authorities analyze and interpret malaria data, and what factors indicate a possible epidemic?"
+Q904,"How is the epidemic threshold set for malaria, and what factors are considered in determining the upper limit of expected cases?"
+Q905,How is early detection and control of malaria epidemics ensured in epidemic-prone areas?
+Q912,What are the components of programs elaborated to eradicate malnutrition?
+Q913,What is the goal of nutrition surveillance?
+Q915,What actions should be taken in response to an alert threshold related to malnutrition in children?
+Q919,Who are the most vulnerable populations in terms of malnutrition?
+Q927,What is the standard case definition for malnutrition in children under five?
+Q928,What is considered a maternal death?
+Q930,How many women die annually due to complications during pregnancy and childbirth globally?
+Q932,What is the lifetime risk of maternal death in sub-Saharan Africa?
+Q936,What is the standard case definition for maternal death?
+Q940,How should data on maternal deaths be analyzed and interpreted?
+Q944,Why is hemorrhage identified as a leading cause of maternal death in sub-Saharan Africa?
+Q947,Where should surveillance for maternal deaths be conducted?
+Q948,What is the significance of the alert threshold for maternal deaths at a health facility?
+Q949,How does the SDG reporting in 2030 differ from the MDG approach in terms of maternal mortality reduction goals?
+Q950,"Where should data on maternal deaths be analyzed, and why is it important to analyze it in this manner?"
+Q951,What is the extent of the problem of maternal mortality globally?
+Q953,"What is measles, and how is it transmitted?"
+Q957,What are the risk factors for measles outbreaks?
+Q963,"What is the diagnostic test for measles, and when should specimens be collected?"
+Q964,"How should specimens be prepared, stored, and managed for measles testing?"
+Q965,What is the reference for responding to measles outbreaks in measles mortality reduction settings?
+Q967,Where can one find African Regional guidelines for measles and rubella surveillance?
+Q968,"What is MERS, and what virus causes it?"
+Q969,What are the typical symptoms of MERS?
+Q972,What is the surveillance goal for MERS?
+Q974,How should specimens be collected for laboratory confirmation of MERS?
+Q975,What are the guidelines for responding to a suspected MERS case or outbreak?
+Q979,Where does Monkeypox primarily occur?
+Q981,How is Monkeypox transmitted between humans?
+Q985,Name some countries that have reported human cases of Monkeypox.
+Q986,What is the incubation period of Monkeypox?
+Q987,What are the clinical features of Monkeypox?
+Q988,How is Monkeypox diagnosed in a laboratory?
+Q989,What are the optimal specimens for Monkeypox diagnosis?
+Q994,"What is AIDS, and what causes it?"
+Q997,What is the incubation period for HIV?
+Q998,Who are at high risk of acquiring HIV?
+Q999,What are some symptoms of AIDS-related opportunistic infections?
+Q1000,What is the surveillance goal for HIV/AIDS?
+Q1002,What are some public health actions for HIV/AIDS?
+Q1004,"What specimen is used for HIV testing, and how is it collected?"
+Q1006,What are some references for HIV/AIDS surveillance?
+Q1007,"What are the targets set by the Global Strategy for Women’s, Children’s, and Adolescents’ Health regarding neonatal mortality and stillbirths?"
+Q1010,What is the definition of a stillbirth?
+Q1015,How is data on perinatal deaths analyzed and interpreted?
+Q1017,"What is the recommended committee for reviewing perinatal deaths, and what other committee can it be combined with?"
+Q1022,"What is the standard case definition for suspected, probable, and confirmed cases of pneumonic plague?"
+Q1025,What are the measures for analyzing and interpreting data on pneumonic plague?
+Q1026,"What are the diagnostic tests for laboratory confirmation of pneumonic plague, and what specimens are required?"
+Q1027,"How should clinical specimens for pneumonic plague be prepared, stored, and transported?"
+Q1031,"What is the incubation period for paralytic cases of polio, and what is the range?"
+Q1033,What is the standard case definition for suspected and confirmed cases of poliomyelitis?
+Q1041,How does the incubation period for pneumonic plague compare to that of paralytic polio?
+Q1044,Compare the diagnostic tests and specimen requirements for laboratory confirmation of pneumonic plague and poliomyelitis.
+Q1046,"Which antibiotic treatments are recommended for pneumonic plague, and why is quick treatment crucial for this disease?"
+Q1047,"What is the extent of the risk associated with human-to-human transmission of pneumonic plague, especially in areas with limited health care services?"
+Q1050,"Where can additional information on plague and polio be found, and why are these resources important for health professionals and authorities?"
+Q1052,In what ways do the standard case definitions for tuberculosis and typhoid fever differ?
+Q1057,"What is the risk associated with untreated tuberculosis, especially in individuals with HIV/AIDS and other immunocompromising conditions?"
+Q1060,"Where can additional information on tuberculosis and typhoid fever be found, and why are these resources important for health professionals and authorities?"
+Q1066,Why is case-based surveillance particularly important for diseases targeted for elimination or eradication?
+Q1068,Who is responsible for reporting individual cases immediately in case-based surveillance systems?
+Q1070,"Where are sentinel sites typically located, and why are they chosen?"
+Q1073,"Why is disease-specific surveillance important, and who benefits from it?"
+Q1074,"Who is involved in Community Based Surveillance (CBS), and what are its main strategies?"
+Q1076,Where is every individual case reported in case-based surveillance?
+Q1082,Which types of events are monitored in event-based surveillance?
+Q1084,Why is event-based surveillance considered sensitive?
+Q1085,When should information from event-based surveillance be synchronized with IBS?
+Q1086,Where do event-based surveillance alerts intersect with indicator-based surveillance (IBS)?
+Q1087,Which surveillance functions are common to both IBS and EBS?
+Q1089,Why are IBS and EBS considered complementary sources of information?
+Q1093,Who does the IDSR strategy assist to better monitor and track planned targets?
+Q1095,What is the definition of a disaster according to the IDSR and DRM?
+Q1097,What is the ultimate objective of DRM?
+Q1100,What does Electronic IDSR (eIDSR) provide?
+Q1103,"What tool is used by most countries to assess their national surveillance, epidemic preparedness, and response systems?"
+Q1104,Where can the national strategic plan be used as a reference?
+Q1105,Which sources of information about health events are defined in the district?
+Q1106,Who should the national strategic plan and the assessment tools serve?
+Q1111,Who can be members of the CBS team?
+Q1114,Where are the various actors located who enhance IDSR?
+Q1119,Where do humanitarian emergencies typically occur?
+Q1121,Who defines a disaster in the context of emergency situations?
+Q1124,What is a humanitarian emergency?
+Q1125,What constitutes a complex emergency?
+Q1126,What are the core functions of IDSR in the context of complex humanitarian emergencies?
+Q1127,How does a disaster differ from a humanitarian or complex emergency?
+Q1129,Where does early warning operate in the surveillance system?
+Q1130,Which public health problems should be the focus of the tailored IDSR during the acute phase of a humanitarian emergency?
+Q1132,Why is early warning needed in humanitarian emergencies?
+Q1134,What steps are involved in the early warning system?
+Q1135,What is the role of early warning in reducing the impact of humanitarian emergencies?
+Q1140,How do the main and specific objectives of tailoring IDSR to emergency contexts contrast with those of standard IDSR?
+Q1147,Why is gap analysis important in the context of IDSR in humanitarian emergencies?
+Q1148,What are the critical components of IDSR in humanitarian crises?
+Q1152,How do indicator-based and event-based surveillance systems complement each other in IDSR?
+Q1159,What role does the PHEOC play in the coordination of data during humanitarian crises?
+Q1161,What are the key activities conducted by district-level focal points during humanitarian crises?
+Q1166,Who should be responsible for ensuring the availability of quality-assured WHO-approved RDT kits during a crisis?
+Q1169,Where should the feedback be disseminated to engage all stakeholders effectively?
+Q1172,Why is regular supervision and support crucial for enhancing surveillance functions at all levels?
+Q1173,What are the critical aspects of feedback and dissemination in the context of IDSR during a humanitarian crisis?
+Q1175,How does outbreak preparedness in crisis-affected populations differ from standard preparedness practices?
+Q1179,Where should outbreak investigations be undertaken during a humanitarian crisis?
+Q1180,Which thresholds are used in crisis-affected populations for alert and epidemic detection?
+Q1182,Why is an exit strategy important during the recovery phase of a crisis?
+Q1184,What is the main objective of an outbreak investigation in the context of IDSR during a humanitarian crisis?
+Q1186,What additional risks and requirements are involved in outbreak response activities in crisis-affected populations?
+Q1187,How should countries approach the exit strategy during the recovery phase of a crisis?
+Q1193,What are indicators and how are they used in measuring the performance of a surveillance system?
+Q1195,How do the selected data for measuring indicators assist in improving the surveillance system?
+Q1197,How does the use of indicators contribute to the overall performance and quality assessment of a surveillance system?
+Q1198,When should monitoring indicators be established to monitor core surveillance functions?
+Q1199,Where should cases be recorded for surveillance purposes?
+Q1200,Which core functions are monitored in IDSR at the district level?
+Q1201,Who should ensure that cases are identified and reported accurately and promptly for surveillance?
+Q1203,What are the examples of indicators for monitoring core surveillance functions at the district level?
+Q1205,What steps are involved in investigating and confirming suspected cases or outbreaks in the context of IDSR?
+Q1206,How does the monitoring of preparedness for epidemics contribute to the overall effectiveness of IDSR at the district level?
+Q1207,What are the components of an effective feedback system in the context of IDSR at the district level?
+Q1209,Where can tools for evaluating the quality of surveillance systems be found?
+Q1212,Why is it important to monitor the timeliness and completeness of monthly reporting?
+Q1213,What are the consequences of incomplete or late reporting in the context of IDSR?
+Q1214,How do the attributes of the surveillance system contribute to the overall quality of IDSR activities at the district level?
+Q1216,How does the timeliness and completeness of reporting affect the detection and response to public health threats in IDSR?
+Q1217,What role do FETP residents play in the evaluation of surveillance and response systems of IDSR?
+Q1221,Who should monitor detection and notification of immediately reportable diseases or events?
+Q1229,Where should completeness be evaluated in the surveillance system?
+Q1230,Which dimensions of completeness are crucial in surveillance?
+Q1236,How can the completeness of case reporting be monitored and improved in the context of IDSR?
+Q1239,Where should completeness and timeliness of reports be monitored?
+Q1246,How does community-based surveillance contribute to the overall quality of the surveillance system?
