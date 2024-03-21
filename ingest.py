@@ -8,7 +8,7 @@ embeddings = SentenceTransformerEmbeddings(model_name="NeuML/pubmedbert-base-emb
 
 print(embeddings)
 
-# loader = DirectoryLoader('data/', glob="**/*.pdf", show_progress=True, loader_cls=UnstructuredFileLoader)
+
 loader = DirectoryLoader('data/preprocessed/', glob="**/*.xlsx", show_progress=True, loader_cls=UnstructuredExcelLoader)
 
 documents = loader.load()
@@ -25,7 +25,6 @@ qdrant = Qdrant.from_documents(
     embeddings,
     url=url,
     prefer_grpc=False,
-    collection_name="vector_db"
+    collection_name="Vector_DB"
 )
-
 print("Vector DB Successfully Created!")
